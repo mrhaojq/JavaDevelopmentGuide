@@ -1,0 +1,28 @@
+目的:
+1、用于自学Spring Boot
+2、作为开发团队上岗培训指导
+
+大纲:
+Chapter1:编码规范
+借鉴阿里规约
+
+Chapter2:JAVA中的集合
+
+Chapter3:异常处理
+
+Chapter4:Spring Boot框架简介
+
+Chapter5:项目分层
+
+Chapter6:测试驱动开发
+
+Chapter7:JDK版本变迁
+
+Chapter8:Spring+Spring Boot+Spring Cloud 生态体系简介
+
+Chapter9:浅谈面向对象
+
+Chapter10:浅谈设计模式
+
+Chapter11:浅谈框架设计
+
